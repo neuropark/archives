@@ -14,9 +14,7 @@
 ### Abstract
 Full paper abstract will be added here
 
-![equation]("https://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D0%7D%5E%7Bn-1%7D%20%28h%28x%29-y%29%5E%7B2%7D")
-![equation](http://latex.codecogs.com/gif.latex?s%3D%5Ctext%20%7B%20sensor%20reading%20%7D) 
-![equation](http://latex.codecogs.com/gif.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
+![equation]("https://latex.codecogs.com/gif.latex?\frac{1}{n}\sum_{i=0}^{n-1}&space;(h(x)-y)^{2}")
 
 ### Motivation
 What was the main aim of the proposed methdology, motivations behind this approach, limitaions of other methods, and a brief discussion how this method is aiming to solve those specific problems.
