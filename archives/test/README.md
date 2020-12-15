@@ -4,12 +4,10 @@
 
 - [Introduction](#introduction)
   - [Abstract](#abstract)
-  - [Supported Tasks](#supported-tasks-and-leaderboards)
-  - [Languages](#languages)
+  - [Motivation](#motivation)
 - [Review](#review)
-  - [Data Instances](#data-instances)
-  - [Data Fields](#data-instances)
-  - [Data Splits](#data-instances)
+  - [Proposed Work](#work)
+  - [Source Guide](#source)
 - [Results](#results)
 
 - [Additional Information](#additional-information)
