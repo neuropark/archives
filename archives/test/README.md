@@ -4,10 +4,10 @@
 
 - [Abstract](#Abstract)
 - [Motivation](#Motivation)
-- [Proposed Work](#work)
+- [Proposed Work](#Proposed-Work)
 - [Source Guide](#source)
 - [Results](#results)
-- [Paper Authors](#authors)
+- [Paper Authors](#Paper-Authors)
 - [License](#license)
 - [Citation](#citation)
 
