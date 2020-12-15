@@ -40,8 +40,18 @@ Name of the Authors of the respective papers with added informations. (e.g. rese
 All the license informations are needed to be added here.
 
 ### Citation
+citations should be added in bibTex format
 ```
-
+@article{JMLR:v15:srivastava14a,
+  author  = {Nitish Srivastava and Geoffrey Hinton and Alex Krizhevsky and Ilya Sutskever and Ruslan Salakhutdinov},
+  title   = {Dropout: A Simple Way to Prevent Neural Networks from Overfitting},
+  journal = {Journal of Machine Learning Research},
+  year    = {2014},
+  volume  = {15},
+  number  = {56},
+  pages   = {1929-1958},
+  url     = {http://jmlr.org/papers/v15/srivastava14a.html}
+}
 ```
 
 
