@@ -1,35 +1,29 @@
-# How to add one (or several) new datasets to 🤗 Datasets
+# How to add new article to Neuropark archives
 
 ## Start by preparing your environment
 
-1. Fork the [repository](https://github.com/huggingface/datasets) by clicking on the 'Fork' button on the repository's page.
+1. Fork the [repository](https://github.com/Neuropark/archives) by clicking on the 'Fork' button on the repository's page.
 This creates a copy of the code under your GitHub user account.
 
 2. Clone your fork to your local disk, and add the base repository as a remote:
 
 	```bash
-	git clone https://github.com/<your Github handle>/datasets
-	cd datasets
-	git remote add upstream https://github.com/huggingface/datasets.git
+	git clone https://github.com/<your Github handle>/archives
+	cd archives
+	git remote add upstream https://github.com/neuropark/archives.git
 	```
-
-3. (**For Windows**) You will need to install [the right version](https://pytorch.org/get-started/locally/) of PyTorch before continuing because `pip install torch` may not work well for PyTorch on Windows.
-
-4. Set up a development environment, for instance by running the following command:
+	
+3. Set up a development environment, and run the following command:
 
 	```bash
-	conda create -n env python=3.7 --y
-	conda activate env
-	pip install -e ".[dev]"
+	pip install -e "" [Need to test]
 	```
 
-5. Prepare your tagging setup. You will need to clone the [tagging application repository](https://github.com/huggingface/datasets-tagging) and run the app with [Streamlit](https://www.streamlit.io/). You should also open the online form that will allow you to [create dataset cards](https://huggingface.co/datasets/card-creator/) in a browser window (courtesy of [Evrard t'Serstevens](https://huggingface.co/evrardts).)
+Now you are ready, each time you want to add a new article, follow the steps in the following section:
 
-Now you are ready, each time you want to add a new dataset, follow the steps in the following section:
+## Adding a new article
 
-## Adding a new dataset
-
-### Understand the structure of the dataset
+### Understand the structure of the article
 
 1. Find a short-name for the dataset:
 
