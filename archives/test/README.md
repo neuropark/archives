@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- [Abstract](#Abstract)
-- [Motivation](#Motivation)
-- [Proposed Work](#Proposed-Work)
-- [Source Guide](#Source-Guide)
+- [Abstract](#abstract)
+- [Motivation](#motivation)
+- [Proposed Work](#proposed-work)
+- [Source Guide](#source-guide)
 - [Results](#results)
-- [Paper Authors](#Paper-Authors)
+- [Paper Authors](#paper-authors)
 - [License](#license)
 - [Citation](#citation)
 
