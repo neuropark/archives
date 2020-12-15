@@ -14,7 +14,7 @@
 ### Abstract
 Full paper abstract will be added here
 
-![equation]("https://latex.codecogs.com/gif.latex?\frac{1}{n}\sum_{i=0}^{n-1}&space;(h(x)-y)^{2}")
+![equation](https://latex.codecogs.com/gif.latex?\frac{1}{n}\sum_{i=0}^{n-1}&space;(h(x)-y)^{2})
 
 ### Motivation
 What was the main aim of the proposed methdology, motivations behind this approach, limitaions of other methods, and a brief discussion how this method is aiming to solve those specific problems.
