@@ -14,7 +14,7 @@
 ### Abstract
 Full paper abstract will be added here
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D0%7D%5E%7Bn-1%7D%28h%28x%29-)
+![equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi%3D0%7D%5E%7Bn-1%7D%28h%28x%29-y%29%5E%7B2%7D)
 
 ### Motivation
 What was the main aim of the proposed methdology, motivations behind this approach, limitaions of other methods, and a brief discussion how this method is aiming to solve those specific problems.
