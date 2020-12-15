@@ -23,10 +23,12 @@ What was the main aim of the proposed methdology, motivations behind this approa
 All the detailed explanation with diagrams will be added here. All the detailed work, network images, their expla
 
 ### Source Guide
+<div class="code-snippets">
 ```
 from archives import papers
 p1 = paper.test(args)
 ```
+</div>
 
 ### Results
 Results with images (if nessecery) will be added here.
