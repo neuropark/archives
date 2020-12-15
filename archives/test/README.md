@@ -20,7 +20,10 @@ Full paper abstract will be added here
 What was the main aim of the proposed methdology, motivations behind this approach, limitaions of other methods, and a brief discussion how this method is aiming to solve those specific problems.
 
 ### Proposed Work
-All the detailed explanation with diagrams will be added here. All the detailed work, network images, their expla
+All the detailed explanation with diagrams will be added here. All the detailed work, network images, their explanation
+
+[image-name](https://github.com/neuropark/archives/blob/main/archives/test/src/dummy.png)
+citation of the image
 
 ### Source Guide
 
