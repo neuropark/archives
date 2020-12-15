@@ -22,7 +22,7 @@ What was the main aim of the proposed methdology, motivations behind this approa
 ### Proposed Work
 All the detailed explanation with diagrams will be added here. All the detailed work, network images, their explanation
 
-[image-name](https://github.com/neuropark/archives/blob/main/archives/test/src/dummy.png)
+![image-name](https://github.com/neuropark/archives/blob/main/archives/test/src/dummy.png)
 citation of the image
 
 ### Source Guide
